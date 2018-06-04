@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runner.ServiceLibraryIntegrationTests
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 112.675 sec - in runner.ServiceLibraryIntegrationTests
