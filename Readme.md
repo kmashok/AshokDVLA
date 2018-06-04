@@ -1,5 +1,7 @@
 1. Clone the Repository using the URL
 
+https://github.com/kmashok/AshokDVLA.git
+
 2. Maven Project Name: com.dvlatest.files
 
 3. As a pre-requisite, please have a look into the Specflow feature file (Features\DVLA_Test_Features.feature) and edit the folder path as required under Scenario->Examples section.
@@ -9,6 +11,8 @@ For example, the test folder structure currently used in Examples section of fea
 3. Run Maven Clean and Maven Test on POM.xml file of the project
 
 4. Following 3 Scenarios will be executed:
+
+
   a. Generate Vedhicle Data file.
       This scenario creates all the folder structures with varios files and types.
       Creates a vehicle data file - CarVehicleRegistrationDetails.txt inside C:\ConfigureTest.
